@@ -1,0 +1,45 @@
+# 🔹 Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 PyCharm / IntelliJ
+.idea/
+
+# 🔹 Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Logs
+*.log
+
+# 🔹 SQLite databases (if you use later)
+*.sqlite3
+
+# 🔹 Jupyter Notebook checkpoints (if you ever use them)
+.ipynb_checkpoints/
+
+# 🔹 Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# 🔹 Testing / coverage
+.coverage
+htmlcov/
+
+# 🔹 Temporary files
+*.tmp
+*.swp
