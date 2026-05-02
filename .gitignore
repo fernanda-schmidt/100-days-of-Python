@@ -43,3 +43,7 @@ htmlcov/
 # 🔹 Temporary files
 *.tmp
 *.swp
+
+template-readme.md
+/templates
+  ┗ README_template.md
