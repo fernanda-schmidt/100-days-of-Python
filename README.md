@@ -28,7 +28,7 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day | Project | Status |
 |-----|--------|--------|
 | Day 1 | Band Name Generator | ✅ Completed |
-| Day 2 | Tip Calculator | ⏳ In Progress |
+| Day 2 | Tip Calculator | ✅ Completed |
 | Day 3 | Treasure Island Game | ⏳ In Progress |
 | ... | ... | ... |
 
