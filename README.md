@@ -30,9 +30,11 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day 1 | Band Name Generator | ✅ Completed |
 | Day 2 | Tip Calculator | ✅ Completed |
 | Day 3 | Adventure Game | ✅ Completed |
-| Day 4 |  | ⏳ In Progress |
-| Day 5 |  | ⏳ In Progress |
+| Day 4 | Rock, Paper, Scissors Game | ✅ Completed |
+| Day 5 | Safe Password Generator | ✅ Completed |
 | Day 6 |  | ⏳ In Progress |
+| Day 7 |  | ⏳ In Progress |
+| Day 8 |  | ⏳ In Progress |
 | ... | ... | ... |
 
 > I will update this table daily as I progress through the challenge.
