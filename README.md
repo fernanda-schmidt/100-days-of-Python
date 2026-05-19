@@ -33,8 +33,11 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day 4 | Rock, Paper, Scissors Game | ✅ Completed |
 | Day 5 | Safe Password Generator | ✅ Completed |
 | Day 6 | Reeborg's World | ✅ Completed |
-| Day 7 |  | ⏳ In Progress |
+| Day 7 | Hangman | ✅ Completed |
 | Day 8 |  | ⏳ In Progress |
+| Day 9 |  | ⏳ In Progress |
+| Day 10 |  | ⏳ In Progress |
+| Day 11 |  | ⏳ In Progress |
 | ... | ... | ... |
 
 > I will update this table daily as I progress through the challenge.
