@@ -1,24 +1,44 @@
-def greet(name):
-    print(f"Hello, {name}!")
-    print("Nice to meet you.")
+# Day 08 - The Ceasar Cipher
+
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+            'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
+programRunning = True
 
 
-def life_in_weeks(age):
-    weeks_left = (90 - age) * 52
-    print(f"You have {weeks_left} weeks left.")
+def caeserCipher(message, shift):
+    encryptedString = ""
 
-def goodbye():
-    print("Well, this has been pleasent.")
-    print(f"Bye, {name}, enjoy your life.")
+    for letter in message:
+        if letter in alphabet:
+            letterIndex = alphabet.index(letter)
+            newIndex = (letterIndex + shift) % len(alphabet)
+            encryptedString += alphabet[newIndex]
+        else:
+            encryptedString += letter
 
-name = input("Enter a name: ").title()
-greet(name)
-
-age = int(input("Enter your current age: "))
-life_in_weeks(age)
-
-goodbye()
+    print(encryptedString)
 
 
+while programRunning:
+    userInput = input(
+        "Enter a message to encrypt or decrypt. Type 'quit' to quit. ")
+    if userInput == 'quit':
+        programRunning = False
+        break0
 
+    shift = int(input("How much is the shift? "))
 
+    choice = input(
+        "Enter 'encode' to encrypt. Type 'decode' to decrypt. Type 'quit' to quit. ").lower()
+
+    if choice == 'encode':
+        caeserCipher(userInput, shift)
+    elif choice == 'decode':
+        caeserCipher(userInput, (-shift))
+    elif choice == 'quit':
+        programRunning = False
+    else:
+        print("ERROR: Invalid input.")
+
+print("Thanks for using the Caeser Cipher Decryptor.")
