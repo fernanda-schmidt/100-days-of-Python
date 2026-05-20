@@ -22,15 +22,15 @@ def caeserCipher(message, shift):
 
 while programRunning:
     userInput = input(
-        "Enter a message to encrypt or decrypt. Type 'quit' to quit. ")
+        "Enter a message to encrypt or decrypt. Type 'quit' to quit.\n")
     if userInput == 'quit':
         programRunning = False
-        break0
+        break
 
-    shift = int(input("How much is the shift? "))
+    shift = int(input("How much is the shift?\n"))
 
     choice = input(
-        "Enter 'encode' to encrypt. Type 'decode' to decrypt. Type 'quit' to quit. ").lower()
+        "Enter 'encode' to encrypt. Type 'decode' to decrypt. Type 'quit' to quit.\n").lower()
 
     if choice == 'encode':
         caeserCipher(userInput, shift)
