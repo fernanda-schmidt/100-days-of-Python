@@ -34,7 +34,7 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day 5 | Safe Password Generator | ✅ Completed |
 | Day 6 | Reeborg's World | ✅ Completed |
 | Day 7 | Hangman | ✅ Completed |
-| Day 8 |  | ⏳ In Progress |
+| Day 8 | Caesar Cipher | ✅ Completed |
 | Day 9 |  | ⏳ In Progress |
 | Day 10 |  | ⏳ In Progress |
 | Day 11 |  | ⏳ In Progress |
