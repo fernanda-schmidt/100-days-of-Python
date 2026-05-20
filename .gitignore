@@ -47,3 +47,7 @@ htmlcov/
 template-readme.md
 /templates
   ┗ README_template.md
+
+# practice files
+practice/
+**/practice/
