@@ -36,8 +36,11 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day 7 | Hangman | ✅ Completed |
 | Day 8 | Caesar Cipher | ✅ Completed |
 | Day 9 | Silent Auction  | ✅ Completed |
-| Day 10 |  | ⏳ In Progress |
+| Day 10 | Simple Calculator | ✅ Completed |
 | Day 11 |  | ⏳ In Progress |
+| Day 12 |  | ⏳ In Progress |
+| Day 13 |  | ⏳ In Progress |
+| Day 14 |  | ⏳ In Progress |
 | ... | ... | ... |
 
 > I will update this table daily as I progress through the challenge.
