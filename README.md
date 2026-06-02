@@ -38,7 +38,7 @@ The goal of this challenge is to build **100 Python projects in 100 days**, cove
 | Day 9 | Silent Auction  | ✅ Completed |
 | Day 10 | Simple Calculator | ✅ Completed |
 | Day 11 | CAPSTONE PROJECT: Blackjack | ✅ Completed |
-| Day 12 |  | ⏳ In Progress |
+| Day 12 | Number Guessing Game | ✅ Completed |
 | Day 13 |  | ⏳ In Progress |
 | Day 14 |  | ⏳ In Progress |
 | ... | ... | ... |
